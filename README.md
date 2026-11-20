@@ -1,1 +1,1 @@
-# Algoritimos-em-C
+# Algoritimos e pensamento computacional
